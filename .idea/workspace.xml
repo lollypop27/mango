@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2085e7eb-9a8d-4ab3-9451-3d57aa2b5809" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mango_web/controllers/page_controller_test.exs" afterPath="$PROJECT_DIR$/test/mango_web/controllers/page_controller_test.exs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/test.exs" afterPath="$PROJECT_DIR$/config/test.exs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mix.exs" afterPath="$PROJECT_DIR$/mix.exs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mix.lock" afterPath="$PROJECT_DIR$/mix.lock" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page_controller_test.exs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="page_controller_test.exs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/mango_web/controllers/page_controller_test.exs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
@@ -57,7 +59,17 @@
         <entry file="file://$PROJECT_DIR$/mix.exs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="518">
-              <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+              <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.exs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/test.exs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -76,6 +88,7 @@
         <option value="$PROJECT_DIR$/lib/mango_web/templates/page/index.html.eex" />
         <option value="$PROJECT_DIR$/test/mango_web/controllers/page_controller_test.exs" />
         <option value="$PROJECT_DIR$/mix.exs" />
+        <option value="$PROJECT_DIR$/config/test.exs" />
       </list>
     </option>
   </component>
@@ -118,6 +131,11 @@
             <path>
               <item name="mango" type="b2602c69:ProjectViewProjectNode" />
               <item name="mango" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mango" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mango" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mango" type="b2602c69:ProjectViewProjectNode" />
@@ -182,12 +200,12 @@
       <option name="presentableId" value="Default" />
       <updated>1504096762986</updated>
       <workItem from="1504096771129" duration="1483000" />
-      <workItem from="1504107598797" duration="2446000" />
+      <workItem from="1504107598797" duration="2656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3929000" />
+    <option name="totallyTimeSpent" value="4139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -261,18 +279,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix.exs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/mango_web/controllers/page_controller_test.exs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix.exs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/test.exs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding />
         </state>
       </provider>

@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2085e7eb-9a8d-4ab3-9451-3d57aa2b5809" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/mango_web/templates/layout/app.html.eex" afterPath="$PROJECT_DIR$/lib/mango_web/templates/layout/app.html.eex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/mango_web/templates/page/index.html.eex" afterPath="$PROJECT_DIR$/lib/mango_web/templates/page/index.html.eex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mango_web/controllers/page_controller_test.exs" afterPath="$PROJECT_DIR$/test/mango_web/controllers/page_controller_test.exs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +47,17 @@
         <entry file="file://$PROJECT_DIR$/test/mango_web/controllers/page_controller_test.exs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
-              <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mix.exs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix.exs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -68,6 +75,7 @@
         <option value="$PROJECT_DIR$/lib/mango_web/templates/layout/app_nav.html.eex" />
         <option value="$PROJECT_DIR$/lib/mango_web/templates/page/index.html.eex" />
         <option value="$PROJECT_DIR$/test/mango_web/controllers/page_controller_test.exs" />
+        <option value="$PROJECT_DIR$/mix.exs" />
       </list>
     </option>
   </component>
@@ -174,12 +182,12 @@
       <option name="presentableId" value="Default" />
       <updated>1504096762986</updated>
       <workItem from="1504096771129" duration="1483000" />
-      <workItem from="1504107598797" duration="2196000" />
+      <workItem from="1504107598797" duration="2446000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3679000" />
+    <option name="totallyTimeSpent" value="3929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -253,10 +261,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mix.exs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/mango_web/controllers/page_controller_test.exs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>

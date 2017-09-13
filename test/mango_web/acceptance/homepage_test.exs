@@ -6,7 +6,7 @@ defmodule MangoWeb.HomepageTest do
 
   test "presence of featured products" do
     navigate_to("/")
-
     assert page_source() =~ "Seasonal products"
   end
+
 end
